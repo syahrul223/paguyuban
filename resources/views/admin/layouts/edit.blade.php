@@ -1,0 +1,1 @@
+<a href="{{ $url_edit }}" class="btn btn-warning btn-flat btn-block" title="ubah {{ $model->name }}"><i class="fa fa-pencil"></i></a>

@@ -1,0 +1,1 @@
+<a href="{{ $url_delete }}" class="btn btn-danger btn-flat btn-block" title="hapus, {{ $model->name }}"><i class="fa fa-trash"></i></a>

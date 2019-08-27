@@ -1,0 +1,1 @@
+<a href="{{ $url_show }}" class="btn btn-info btn-flat btn-block" title="Lihat {{ $model->name }}"><i class="fa fa-info"></i></a>
